@@ -35,13 +35,13 @@ _
 - [Assets](#assets)
     + [Fonts](#fonts)
     + [Various](#various-2)
-      - [Graphics](#graphics)
-        * [3D](#3d-1)
-        * [2D / Icons](#2d--icons)
-        * [Textures](#textures-1)
-      - [Audio](#audio-1)
-        * [Music](#music)
-        * [SFX](#sfx-1)
+    + [Graphics](#graphics)
+      - [3D](#3d-1)
+      - [2D / Icons](#2d--icons)
+      - [Textures](#textures-1)
+    + [Audio](#audio-1)
+      - [Music](#music)
+      - [SFX](#sfx-1)
 
 ## Organization & Koordination
 
