@@ -2,7 +2,7 @@
 An ever-growing list of tools and resources for game development.
 _
 
-  * [Organization & Koordination](#organization--koordination)
+ * [Organization & Koordination](#organization--koordination)
     + [Tasks / Kanban](#tasks--kanban)
     + [Prototyping](#prototyping)
     + [Game Design Documents](#game-design-documents)
@@ -112,7 +112,7 @@ _
 
 # Accessibility / UI
 * [Game Accessibility Guidelines](https://gameaccessibilityguidelines.com/) (list of requirements / best practices for accessibility in games)
-* [Game UI Database]([https://www.gameuidatabase.com/](https://www.gameuidatabase.com/ "https://www.gameuidatabase.com/")) (collection of UI examples for games)
+* [Game UI Database](https://www.gameuidatabase.com/) (collection of UI examples for games)
 * [Interface Ingame](https://interfaceingame.com/)
 
 # Art
@@ -247,8 +247,8 @@ _
 * [Creative Commons Search](https://search.creativecommons.org/)
 * [Archive.org](https://archive.org) 
 
-#### Graphics
-##### 3D
+### Graphics
+#### 3D
 * [Sketchfab](https://sketchfab.com/models?date=week&features=downloadable&sort_by=-likeCount) (3D models / animations)
 * [TurboSquid](http://turboSquid.com) (3D models)
 * [Blendswap](http://www.blendswap.com/) (3D models)
@@ -257,19 +257,19 @@ _
 * [The Base Mesh](https://www.thebasemesh.com/) (3D Meshes, CC0)
 * [mixamo](https://www.mixamo.com/) (Animations)
 
-##### 2D / Icons
+#### 2D / Icons
 * [glitchthegame.com](http://glitchthegame.com/public-domain-game-art/) (2D sprites, flash backgrounds)
 * [Icon SVG](https://iconsvg.xyz)
 
-##### Textures
+#### Textures
 * [CGTextures.com](http://www.cgtextures.com/)
 * [Openfootage](https://www.openfootage.net/texture-packs/)
 * [https://3dtextures.me/](https://3dtextures.me/) (textures with PBR maps)
 * [TextureHaven](https://texturehaven.com/) (tree texture & map archive)
 * [CGBookCase](https://www.cgbookcase.com/textures/) (free textures)
 
-#### Audio
-##### Music
+### Audio
+#### Music
 * [FreeMusicArchive](http://freemusicarchive.org/)
 * [Newgrounds Audio](http://www.newgrounds.com/audio)
 * [dig.ccmixter](http://dig.ccmixter.org/)
@@ -278,7 +278,7 @@ _
 * [Expsyle](https://expsyle.bandcamp.com/)
 * [Music for Game Jams](https://tallbeard.itch.io/music-for-game-jams)
 
-##### SFX
+#### SFX
 * [gamesounds.xyz](https://gamesounds.xyz/) 
 * [FreeSound](https://freesound.org/) 
 * [musopen](https://musopen.org/) 
