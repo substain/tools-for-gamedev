@@ -1,5 +1,8 @@
 # Tools For Gamedev
+<img align="right" width="100" height="100" src="https://github.com/substain/tools-for-gamedev/blob/main/icon.png?raw=true">
 An ever-growing list of tools and resources for game development.
+
+---
 
  * [Organization & Koordination](#organization--koordination)
     + [Tasks / Kanban](#tasks--kanban)
@@ -41,6 +44,8 @@ An ever-growing list of tools and resources for game development.
     + [Audio](#audio-1)
       - [Music](#music)
       - [SFX](#sfx-1)
+     
+---
 
 ## Organization & Koordination
 
