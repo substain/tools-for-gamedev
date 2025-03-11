@@ -1,6 +1,5 @@
 # Tools For Gamedev
 An ever-growing list of tools and resources for game development.
-_
 
  * [Organization & Koordination](#organization--koordination)
     + [Tasks / Kanban](#tasks--kanban)
@@ -58,7 +57,7 @@ _
 * [Miro](https://miro.com/) (Web-based Whiteboard)
 * [Milanote](https://milanote.com/) (Web-based Whiteboard, similar to Miro)
 * [Figma](http://figma.com) (Free Web-based vector graphics editor)
-* [Magma](https://magma.com/) (online draw together, does it still work?)
+* [Magma](https://magma.com/) (online draw together)
 * [Excalidraw](https://excalidraw.com/) (online draw together)
 * [Machinations](https://machinations.io) Web-only software for running simulations against a game design. 
 
@@ -104,7 +103,6 @@ _
 * [Peek](https://github.com/phw/peek) (Linux gif screen recorder)
 * [EZGif](http://ezgif.com/) (online GIF animation editor and maker)
 * [GIFCam](http://blog.bahraniapps.com/gifcam/) (free recorder that outputs optimized GIFs)
-* [GifMaker](https://gifrun.com/gifmaker)
 
 ### Multiplayer
 * [Dreamlo](http://dreamlo.com/) (Leaderboards)
@@ -156,11 +154,11 @@ _
 * [Texture Packer](http://www.codeandweb.com/texturepacker)
 
 ### Animation
-* [DragonBones](http://dragonbones.com/en/index.html) (skeletal animation)
 * [Rokoko AI](https://www.rokoko.com/products/vision) - (motion capture from video)
 * [Spine](http://esotericsoftware.com/) (2D skeletal animation)
 * [Carnegie-Mellon Motion Capture Database](http://mocap.cs.cmu.edu/)
 * [Spriter](https://brashmonkey.com/) (2D skeletal animation)
+* [Synfig](https://www.synfig.org/) (2D animation)
 
 ### VFX
 * [VFExtra](https://www.nielsdewitte.be/VFExtra/) (VFX Plugin for UE, textures)
@@ -174,8 +172,8 @@ _
 ### Various
 * [Tiled](http://www.mapeditor.org/) (tile editor)
 * [Shoebox](http://renderhjs.net/shoebox/)
-* [Image optimizer](http://www.imageoptimizer.net)
-* [Tilemancer](https://led.itch.io/tilemancer) (node-based filters tool for tiles)
+* [Tilemancer](https://led.itch.io/tilemancer) (node-based filters tool for tiles, no active development)
+* [Tilesetter](https://www.tilesetter.org/) (successor to tilemancer)
 * [Fractorium](http://fractorium.com/) (Flame Fractal Generator)
 
 # Audio
@@ -184,8 +182,8 @@ _
 * [Ardour](https://ardour.org/) (DAW, FOSS / pay once or compile yourself)
 * [SunVox](https://warmplace.ru/soft/sunvox/) (Modular synthesizer and tracker system. Free for desktop)
 * [Cakewalk](https://www.bandlab.com/products/cakewalk) by Bandlab (Digital audio workstation - formerly SONAR)
-* [Ableton Live](https://ableton.com) (Digital Audio Workstation, paid)
 * [Reaper](https://www.reaper.fm/) (Digital Audio Workstation)
+* [Ableton Live](https://ableton.com) (Digital Audio Workstation, paid)
 
 ### Sequencer
 * [Bosca Ceoil Blue](https://yurisizov.itch.io/boscaceoil-blue) (step sequencer, focused on 8bit music, made in Godot / GDSiON)
@@ -205,6 +203,7 @@ _
 * [GlasanSFX](https://yurisizov.itch.io/glasan-fx) (sound tool made in Godot / GDSiON)
 
 ### Synthesizer
+* [Plugins4Free](https://plugins4free.com/) (an extensive list of free Plugins/VSTs)
 * [Surge XT](https://surge-synthesizer.github.io/) (Synthesizer)
 * [Helm](https://tytel.org/helm/) (Synthesizer)
 * [VCV](https://vcvrack.com) (Modular Synth Rack, free option)
@@ -246,8 +245,8 @@ _
 ### Various
 * [Kenney](https://www.kenney.nl/assets)
 * [OpenGameArt](https://opengameart.org/)
-* [Unity Asset Store](https://assetstore.unity.com/)
-* [Creative Commons Search](https://search.creativecommons.org/)
+* [Unity Asset Store](https://assetstore.unity.com/) (a lot of assets can be used without Unity)
+* [Creative Commons Search](https://search.creativecommons.org/) (search for multiple different cc sources)
 * [Archive.org](https://archive.org) 
 
 ### Graphics
@@ -256,18 +255,17 @@ _
 * [TurboSquid](http://turboSquid.com) (3D models)
 * [Blendswap](http://www.blendswap.com/) (3D models)
 * [Devassets](http://devassets.com) (HQ Assets)
-* [Google Poly](https://poly.google.com/) (Lowpoly)
 * [The Base Mesh](https://www.thebasemesh.com/) (3D Meshes, CC0)
 * [mixamo](https://www.mixamo.com/) (Animations)
+* [models-resource](https://www.models-resource.com/)
 
 #### 2D / Icons
-* [glitchthegame.com](http://glitchthegame.com/public-domain-game-art/) (2D sprites, flash backgrounds)
 * [Icon SVG](https://iconsvg.xyz)
 
 #### Textures
 * [CGTextures.com](http://www.cgtextures.com/)
 * [Openfootage](https://www.openfootage.net/texture-packs/)
-* [https://3dtextures.me/](https://3dtextures.me/) (textures with PBR maps)
+* [3dtextures.me](https://3dtextures.me/) (textures with PBR maps)
 * [TextureHaven](https://texturehaven.com/) (tree texture & map archive)
 * [CGBookCase](https://www.cgbookcase.com/textures/) (free textures)
 
@@ -295,5 +293,4 @@ _
 * [Sampled Instrument Libraries](https://hilbricht.net/foss-sampled-instruments.html)
 * [NASA Audio Library](https://archive.org/details/nasaaudiocollection)
 * [New York Public Library](http://digitalcollections.nypl.org/)
-* [ZapSplat](https://www.zapsplat.com/) 
-* [Audition SFX](https://offers.adobe.com/en/na/audition/offers/audition_dlc/AdobeAuditionDLCSFX.html) (via Adobe Audition)
+* [ZapSplat](https://www.zapsplat.com/)
