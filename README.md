@@ -204,6 +204,11 @@ _
 * [LabChirp](https://labbed.net/software/labchirp/) (an alternative to SFXR with more control over sound generation.)
 * [GlasanSFX](https://yurisizov.itch.io/glasan-fx) (sound tool made in Godot / GDSiON)
 
+### Synthesizer
+* [Surge XT](https://surge-synthesizer.github.io/) (Synthesizer)
+* [Helm](https://tytel.org/helm/) (Synthesizer)
+* [VCV](https://vcvrack.com) (Modular Synth Rack, free option)
+
 ### Various
 * [MuseScore](https://musescore.org/de) (notation software)
 * [SynthFont](http://www.synthfont.com)(midi renderer)
@@ -212,12 +217,10 @@ _
 * [Milkytracker](http://www.milkytracker.org/) (Tracker) 
 * [Soundation](https://soundation.com/) (Music Maker)
 * [Google AI Sound Maker](https://experiments.withgoogle.com/ai/sound-maker/view/) (Music / SFX with Machine Learning) 
-* [VCV](https://vcvrack.com) (Modular Synth Rack, free option)
-* [Helm](https://tytel.org/helm/) (Synthesizer)
 * [Punk Labs](https://punklabs.com/) (Audio Plugins)
-* [Surge XT](https://surge-synthesizer.github.io/) (Synthesizer)
 * [SoundOfText](https://soundoftext.com/) (Text-To-Speech)
 * [SoundImage](http://soundimage.org/)
+* [Sonic Visualizer](https://www.sonicvisualiser.org/) (Audio Analysis Tool, e.g. with Pitch Detection via Vamp Plugins)
 
 #### Audio Programming
 * [csound](https://csound.com/) (most established? Audio Programming Language)
