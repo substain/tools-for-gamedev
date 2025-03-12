@@ -1,6 +1,6 @@
 # Tools For Gamedev
 <img align="right" width="100" height="100" src="https://github.com/substain/tools-for-gamedev/blob/main/icon.png?raw=true">
-An ever-growing list of tools and resources for game development.
+An ever-growing list of tools and resources for game development. This collection has a focus on free tools, but also includes some paid options (currently).
 
 ---
 
@@ -44,7 +44,10 @@ An ever-growing list of tools and resources for game development.
     + [Audio](#audio-1)
       - [Music](#music)
       - [SFX](#sfx-1)
-     
+* [Guides](#guides)
+    + [Accessibility](#accessibility)
+    + [Design Patterns](#design-patterns)
+    + [Refactoring](#refactoring)
 ---
 
 ## Organization & Koordination
@@ -114,9 +117,9 @@ An ever-growing list of tools and resources for game development.
 * [Silentwolf](https://silentwolf.com/) (Leaderboards)
 
 # Accessibility / UI
-* [Game Accessibility Guidelines](https://gameaccessibilityguidelines.com/) (list of requirements / best practices for accessibility in games)
 * [Game UI Database](https://www.gameuidatabase.com/) (collection of UI examples for games)
 * [Interface Ingame](https://interfaceingame.com/)
+* [Colour Contrast](https://colourcontrast.cc/)
 
 # Art
 ### 2D
@@ -125,7 +128,7 @@ An ever-growing list of tools and resources for game development.
 - [Inkscape](https://inkscape.org/) (SVG/Vector Graphics Tool)
 - [Paint.NET](http://www.getpaint.net/)
 - [Spacescape](http://alexcpeterson.com/spacescape/) (Skyboxes)
-- [OpenToonz](https://opentoonz.github.io/e/) (Animation)
+- [Affinity Photo / Designer](https://affinity.serif.com/de/) (<span style="color:red;">paid</span>)
 
 ### Pixelart
 * [Aseprite](https://www.aseprite.org/)
@@ -146,17 +149,20 @@ An ever-growing list of tools and resources for game development.
 * [Dust3d](https://github.com/huxingyi/dust3d) (3D model, rigging, motion and automatic UV mapping tool)
 * [Blockbench](https://www.blockbench.net/) (Low-Poly 3D Model Editor)
 * [Goxel](https://goxel.xyz/) (Voxel Editor)
+* [FreeCAD](https://www.freecad.org/index.php) (3D CAD tool)
+* [Plasticity](https://www.plasticity.xyz/) (3D CAD tool for artists, $${\color{red}paid}$$)
 
 #### 2D Sprite to 3D
 * [Sprytile](https://chemikhazi.itch.io/sprytile) - (blender plugin, from 2D tilesets) 
-* [Crocotile](http://crocotile3d.com) - commercial inspiration for Sprytile
-* [Pyxel Edit 3D Viewer](https://chinafreak.itch.io/pyxel-edit-3d-viewer) - attempts to make 3D models from Pyxel
+* [Crocotile](http://crocotile3d.com) (commercial inspiration for Sprytile)
+* [Pyxel Edit 3D Viewer](https://chinafreak.itch.io/pyxel-edit-3d-viewer) (attempts to make 3D models from Pyxel)
 
 ### Textures
 * [EffectTextureMaker](http://mebiusbox.github.io/contents/EffectTextureMaker/) (Create Textures)
 * [Material Maker](https://rodzilla.itch.io/material-maker) (3D Texture Painter)
 * [Texture Generator Online](https://cpetry.github.io/TextureGenerator-Online/)
 * [Texture Packer](http://www.codeandweb.com/texturepacker)
+* [Armor Paint](https://armorpaint.org/) (3D PBR Texture Painting, $${\color{red}paid}$$)
 
 ### Animation
 * [Rokoko AI](https://www.rokoko.com/products/vision) - (motion capture from video)
@@ -164,6 +170,7 @@ An ever-growing list of tools and resources for game development.
 * [Carnegie-Mellon Motion Capture Database](http://mocap.cs.cmu.edu/)
 * [Spriter](https://brashmonkey.com/) (2D skeletal animation)
 * [Synfig](https://www.synfig.org/) (2D animation)
+- [OpenToonz](https://opentoonz.github.io/e/) (2D animation)
 
 ### VFX
 * [VFExtra](https://www.nielsdewitte.be/VFExtra/) (VFX Plugin for UE, textures)
@@ -188,7 +195,7 @@ An ever-growing list of tools and resources for game development.
 * [SunVox](https://warmplace.ru/soft/sunvox/) (Modular synthesizer and tracker system. Free for desktop)
 * [Cakewalk](https://www.bandlab.com/products/cakewalk) by Bandlab (Digital audio workstation - formerly SONAR)
 * [Reaper](https://www.reaper.fm/) (Digital Audio Workstation)
-* [Ableton Live](https://ableton.com) (Digital Audio Workstation, paid)
+* [Ableton Live](https://ableton.com) (Digital Audio Workstation, $${\color{red}paid}$$)
 
 ### Sequencer
 * [Bosca Ceoil Blue](https://yurisizov.itch.io/boscaceoil-blue) (step sequencer, focused on 8bit music, made in Godot / GDSiON)
@@ -299,3 +306,22 @@ An ever-growing list of tools and resources for game development.
 * [NASA Audio Library](https://archive.org/details/nasaaudiocollection)
 * [New York Public Library](http://digitalcollections.nypl.org/)
 * [ZapSplat](https://www.zapsplat.com/)
+
+
+
+## Guides
+Note: This section might be extracted as a separate list later on.
+
+### Accessibility
+* [Game Accessibility Guidelines](https://gameaccessibilityguidelines.com/) (list of requirements / best practices for accessibility in games)
+* [Accessible Player Experiences](https://accessible.games/accessible-player-experiences/) (Guidelines for player accessibility)
+* [Windows Accessibility for Games](https://learn.microsoft.com/windows/uwp/gaming/accessibility-for-games) (another resource for game accessibility)
+
+### Design Patterns
+* [Game Programming Patterns](https://gameprogrammingpatterns.com/)
+* [Refactoring Guru Design Patterns](https://refactoring.guru/design-patterns)
+
+## Refactoring
+* [Clean Code Cheat Sheet](https://www.planetgeek.ch/wp-content/uploads/2014/11/Clean-Code-V2.4.pdf)
+* [Refactoring Guru](https://refactoring.guru/refactoring) 
+* [Clean Code Developer](https://clean-code-developer.de/) 
