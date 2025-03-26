@@ -223,6 +223,7 @@ An ever-growing list of tools, assets and resources for game development. This c
 * [Materialize](https://www.boundingboxsoftware.com/materialize/) (Create Textures)
 * [Laigter](https://azagaya.itch.io/laigter) (Create Textures)
 * [NormalMap-Online](https://cpetry.github.io/NormalMap-Online/) (web-based Normal Map Generator)
+* [Yoink](https://realduende.itch.io/yoink) (Texture Ripping/Processing, $${\color{red}paid}$$)
 * [Armor Paint](https://armorpaint.org/) (3D PBR Texture Painting, $${\color{red}paid}$$)
 
 ### 2D Sprite to 3D
@@ -327,6 +328,8 @@ An ever-growing list of tools, assets and resources for game development. This c
 * [GlasanSFX](https://yurisizov.itch.io/glasan-fx) (SFX Generator made in Godot / GDSiON)
 * [rFXGen](https://raylibtech.itch.io/rfxgen) (SFX Generator)
 * [SFXR](https://www.drpetter.se/project_sfxr.html) (SFX Generator)
+* [29a.ch Noise Generator](https://29a.ch/noise-generator/) (Atmo/Noise Generator)
+* 
 
 # Assets
 ### Various
