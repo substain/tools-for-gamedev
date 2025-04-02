@@ -5,7 +5,7 @@ An ever-growing list of tools, assets and resources for game development. This c
 ---
 - [Organization & Koordination](#organization--koordination)
   * [Tasks / Kanban](#tasks--kanban)
-  * [Game Design Documents & Organization](#game-design-documents--organization)
+  * [Game Design & Organization](#game-design--organization)
   * [Prototyping](#prototyping)
   * [Level Design](#level-design)
   * [Collaboration](#collaboration)
@@ -171,6 +171,7 @@ An ever-growing list of tools, assets and resources for game development. This c
 - [GIMP](https://www.gimp.org/) (Photoshop-like Image Editor)
 - [Krita](https://krita.org/) (Digital Painting Program)
 - [Inkscape](https://inkscape.org/) (SVG/Vector Graphics Tool)
+- [GodSVG](https://github.com/MewPurPur/GodSVG) (Web-Based SVG Editor)
 - [Paint.NET](http://www.getpaint.net/)
 - [Spacescape](http://alexcpeterson.com/spacescape/) (Skyboxes)
 - [PhotoPea](https://www.photopea.com/) (web-based PSD editor)
