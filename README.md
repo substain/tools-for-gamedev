@@ -317,6 +317,7 @@ An ever-growing list of tools, assets and resources for game development. This c
 
 ### Sequencer
 * [Bosca Ceoil Blue](https://yurisizov.itch.io/boscaceoil-blue) (step sequencer, focused on 8bit music, made in Godot / GDSiON)
+* [helio.fm](https://helio.fm/) (sequencer with vst support)
 * [BeepBox](https://beepbox.co) (Web-based step sequencer for sketching and sharing melodies, chiptune)
 * [Otomata](http://www.earslap.com/page/otomata.html) (generative musical sequencer)
 * [Pixitracker](http://www.warmplace.ru/soft/pixitracker/) (chiptune sequencer)
