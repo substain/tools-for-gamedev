@@ -89,6 +89,7 @@ An ever-growing list of tools, assets and resources for game development. This c
 * [TLDraw](https://www.tldraw.com/) (web-based draw together)
 * [Magma](https://magma.com/) (web-based draw together)
 * [Excalidraw](https://excalidraw.com/) (web-based draw together)
+* [draw.io](https://www.drawio.com/) (web-based diagram tool)
 * [Machinations](https://machinations.io) (web-based software for running simulations against a game design.)
 * [#randomicon](https://dannymator.itch.io/randomicon) (random icon generator for idea generation)
 * [Onym](https://guide.onym.co) (a set of tools for naming stuff)
@@ -98,8 +99,9 @@ An ever-growing list of tools, assets and resources for game development. This c
 * [Level Designer Toolkit](https://ldtk.io/)
 * [Ogmo-Editor](https://ogmo-editor-3.github.io/) (Level Editor)
 * [overlap2D](https://github.com/UnderwaterApps/overlap2d/) (2D Level & UI Editor)
-* [Grid Cartographer](https://gridcartographer.com/) (web-based map Editor)
+* [Grid Cartographer](https://gridcartographer.com/) (web-based Map Editor)
 * [Sprite Fusion](https://www.spritefusion.com/) (web-based Map Editor)
+* [LevelForge](https://level-editor.onrender.com/) (web-based Map Editor)
 * [Dungeon Scrawl](https://www.dungeonscrawl.com/) (Tabletop Map Generator)
 * [Azgaar's Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/) (web-based Map Generator)
 * [MapGenerator](https://github.com/ProbableTrain/MapGenerator) (City Map Generator)
@@ -145,7 +147,7 @@ An ever-growing list of tools, assets and resources for game development. This c
 * [Github Gists](http://gist.github.com/) (collection of useful scripts)
 * [Regexr](https://regexr.com/) (Regex)
 * [Regex101](https://regex101.com)(Regex)
-* [GraphToy](https://graphtoy.com/) (Web-based visualizer for mathematical graph functions.)
+* [GraphToy](https://graphtoy.com/) (Web-based visualizer for mathematical graph functions)
 * [RPTools.net](http://www.rptools.net/) (Board game tools)
 * [Strange Eons](http://www.cgjennings.ca/eons/index.html) (Tabletop/Card Games Design Tool)
 * [2-Minute Tabletop](https://2minutetabletop.com/)
@@ -239,9 +241,11 @@ An ever-growing list of tools, assets and resources for game development. This c
 * [Synfig](https://www.synfig.org/) (2D animation)
 * [OpenToonz](https://opentoonz.github.io/e/) (2D animation)
 * [Graphics Gale](https://graphicsgale.com/us/) (2D animation)
+* [Pencil2D](https://www.pencil2d.org/) (2D animation)
 * [Pixel Composer](https://github.com/Ttanasart-pt/Pixel-Composer) (2D vfx/animation, needs GameMaker Studio IDE)
 * [LWF](https://gree.github.io/lwf/) (multi-format 2D animations)
-* [Rokoko AI](https://www.rokoko.com/products/vision) (motion capture from video)
+* [FreeMoCap](https://freemocap.org/) (motion capture from video)
+* [Rokoko AI](https://www.rokoko.com/products/vision) (motion capture from video, $${\color{orange}limited}$$)
 
 ## VFX / Shader
 * [VFExtra](https://www.nielsdewitte.be/VFExtra/) (VFX Plugin for UE, textures)
@@ -332,7 +336,6 @@ An ever-growing list of tools, assets and resources for game development. This c
 * [rFXGen](https://raylibtech.itch.io/rfxgen) (SFX Generator)
 * [SFXR](https://www.drpetter.se/project_sfxr.html) (SFX Generator)
 * [29a.ch Noise Generator](https://29a.ch/noise-generator/) (Atmo/Noise Generator)
-* 
 
 # Assets
 ### Various
