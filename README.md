@@ -157,6 +157,8 @@ An ever-growing list of tools, assets and resources for game development. This c
 * [Gamepad Tester](https://hardwaretester.com/gamepad) (web-based Gamepad Tester)
 * [KdenLive](https://kdenlive.org/de/) (Video Editor)
 * [Image Color Summarizer](https://mk.bcgsc.ca/color-summarizer/) (describes colors in images)
+* [Desmos](https://www.desmos.com/) (web-based collection of math tools)
+* [WolframAlpha](https://www.wolframalpha.com/) (web-based math knowledge base / solver)
 
 # Accessibility / UI
 * [Game UI Database](https://www.gameuidatabase.com/) (collection of UI examples for games)
@@ -355,8 +357,9 @@ An ever-growing list of tools, assets and resources for game development. This c
 * [PolyglotGamedev](https://docs.google.com/spreadsheets/d/17f0dQawb-s_Fd7DHgmVvJoEGDMH_yoSd8EYigrb0zmM/edit?gid=296134756)
 
 ### Fonts
-* [DaFont](https://www.dafont.com) 
+* [DaFont](https://www.dafont.com)
 * [Google Fonts](https://fonts.google.com/)
+* [The League of Movable Type](https://www.theleagueofmoveabletype.com/)
 * [FontSquirrel](http://www.fontsquirrel.com)
 * [FontLibrary](https://fontlibrary.org/)
 * [1001freefonts](http://www.1001freefonts.com)
@@ -438,6 +441,7 @@ An ever-growing list of tools, assets and resources for game development. This c
 * [NASA Audio Library](https://archive.org/details/nasaaudiocollection)
 * [New York Public Library](http://digitalcollections.nypl.org/)
 * [ZapSplat](https://www.zapsplat.com/)
+* [Signature Sounds](https://signaturesounds.org/) (contains some 
 
 # Guides
  $${\color{orange}Note}$$: This section or parts of it will probably be extracted as a separate list later on.
