@@ -414,6 +414,8 @@ An ever-growing list of tools, assets and resources for game development. This c
 * [Light Probe Image Gallery](https://www.pauldebevec.com/Probes/)
 * [TextureKing](https://www.textureking.com/) (stock textures)
 * [ZBrush Alpha](https://pixologic.com/zbrush/downloadcenter/alpha/) (alpha materials)
+* [TextureCan](https://www.texturecan.com/) (Free CC0 PBR Textures)
+* [Free PBR](https://freepbr.com/) (Free for non commercial use or $16 total to use any commercial)
 
 ### Audio
 #### Music
