@@ -17,7 +17,7 @@ An ever-growing list of tools, assets and resources for game development. This c
 - [Various Tools](#various-tools)
 - [Accessibility / UI](#accessibility--ui)
   * [Fonts](#fonts)
-- [Art](#art)
+- [Graphics](#graphics)
   * [2D](#2d)
     + [Pixelart](#pixelart)
     + [Tilesheets / Texture Packing](#tilesheets--texture-packing)
@@ -41,7 +41,7 @@ An ever-growing list of tools, assets and resources for game development. This c
 - [Assets](#assets)
     + [Various](#various-1)
     + [Fonts](#fonts-1)
-    + [Graphics](#graphics)
+    + [Graphics](#graphics-1)
       - [3D](#3d-1)
       - [2D](#2d-1)
       - [Icons / UI](#icons--ui)
@@ -83,28 +83,33 @@ An ever-growing list of tools, assets and resources for game development. This c
 * [PadCrafter](https://www.padcrafter.com/index.php) (control scheme builder)
 
 ## Prototyping
-* [Miro](https://miro.com/) (web-based Whiteboard)
-* [Milanote](https://milanote.com/) (web-based Whiteboard, similar to Miro)
-* [Figma](http://figma.com) (web-based vector graphics editor)
-* [TLDraw](https://www.tldraw.com/) (web-based draw together)
-* [Magma](https://magma.com/) (web-based draw together)
-* [Excalidraw](https://excalidraw.com/) (web-based draw together)
-* [draw.io](https://www.drawio.com/) (web-based diagram tool)
+* [Miro](https://miro.com/) (web-based collaborative Whiteboard)
+* [Milanote](https://milanote.com/) (web-based collaborative Whiteboard)
+* [Figma](http://figma.com) (web-based Vector Graphics Editor)
+  - [FigJam](https://www.figma.com/figjam/) (web-based collaborative Whiteboard)
+* [TLDraw](https://www.tldraw.com/) (web-based collaborative drawing)
+* [Magma](https://magma.com/) (web-based collaborative drawing)
+* [Excalidraw](https://excalidraw.com/) (web-based collaborative drawing)
+* [draw.io](https://www.drawio.com/) (web-based Diagram Tool)
+* [Storyboarder](https://wonderunit.com/storyboarder/) (Storyboard Prototyping Tool)
+* [Lorien](https://github.com/mbrlabs/Lorien) (Whiteboard Tool)
 * [Machinations](https://machinations.io) (web-based software for running simulations against a game design.)
 * [#randomicon](https://dannymator.itch.io/randomicon) (random icon generator for idea generation)
 * [Onym](https://guide.onym.co) (a set of tools for naming stuff)
 
 ## Level Design
 * [Tiled](http://www.mapeditor.org/) (Tile Editor)
-* [Level Designer Toolkit](https://ldtk.io/)
+* [Level Designer Toolkit](https://ldtk.io/) (FOSS 2D Level Design Tool)
 * [Ogmo-Editor](https://ogmo-editor-3.github.io/) (Level Editor)
 * [overlap2D](https://github.com/UnderwaterApps/overlap2d/) (2D Level & UI Editor)
 * [Grid Cartographer](https://gridcartographer.com/) (web-based Map Editor)
 * [Sprite Fusion](https://www.spritefusion.com/) (web-based Map Editor)
 * [LevelForge](https://level-editor.onrender.com/) (web-based Map Editor)
+* [Deepknight RPG Map](https://deepnight.net/tools/rpg-map/) (web-based Map Editor)
 * [Dungeon Scrawl](https://www.dungeonscrawl.com/) (Tabletop Map Generator)
 * [Azgaar's Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/) (web-based Map Generator)
 * [MapGenerator](https://github.com/ProbableTrain/MapGenerator) (City Map Generator)
+* [Watabou's Procgen Arcana](https://watabou.github.io/) (web-based Map Generator)
  
 ## Collaboration
 * [DiscordTimeStamp](https://discordtimestamp.com/ "https://discordtimestamp.com/") (Timestamp creation tool for Discord)
@@ -133,7 +138,7 @@ An ever-growing list of tools, assets and resources for game development. This c
 * [Peek](https://github.com/phw/peek) (gif screen recorder for linux)
 * [EZGif](http://ezgif.com/) (online GIF animation editor and maker)
 * [GIFCam](http://blog.bahraniapps.com/gifcam/) (recorder that outputs optimized GIFs)
-* [LightShot](https://app.prntscr.com/en/index.html) (screenshot tool for windows/mac)
+* [LightShot](https://app.prntscr.com/en/index.html) (screenshot tool for Windows/Mac)
 
 ## Multiplayer
 * [Dreamlo](http://dreamlo.com/) (Leaderboards)
@@ -146,60 +151,63 @@ An ever-growing list of tools, assets and resources for game development. This c
 * [Games-Stats](https://games-stats.com/) (Video Game Statistics)
 * [Github Gists](http://gist.github.com/) (collection of useful scripts)
 * [Regexr](https://regexr.com/) (Regex)
-* [Regex101](https://regex101.com)(Regex)
-* [GraphToy](https://graphtoy.com/) (Web-based visualizer for mathematical graph functions)
+* [Regex101](https://regex101.com) (Regex)
+* [GraphToy](https://graphtoy.com/) (web-based visualizer for mathematical graph functions)
 * [RPTools.net](http://www.rptools.net/) (Board game tools)
 * [Strange Eons](http://www.cgjennings.ca/eons/index.html) (Tabletop/Card Games Design Tool)
-* [2-Minute Tabletop](https://2minutetabletop.com/)
-* [One Page Dungeon Generator](https://watabou.itch.io/one-page-dungeon)
+* [2-Minute Tabletop](https://2minutetabletop.com/) (Tabletop Assets, partly free)
+* [One Page Dungeon Generator](https://watabou.itch.io/one-page-dungeon) (Simple Dungeon Generator)
 * [PixelProspector](http://www.pixelprospector.com/indie-resources/) (Resources for Game Developers, currently in Relaunch)
 * [Amazing-QR](https://github.com/x-hw/amazing-qr) (QR Code Generator)
 * [Gamepad Tester](https://hardwaretester.com/gamepad) (web-based Gamepad Tester)
 * [KdenLive](https://kdenlive.org/de/) (Video Editor)
 * [Image Color Summarizer](https://mk.bcgsc.ca/color-summarizer/) (describes colors in images)
-* [Desmos](https://www.desmos.com/) (web-based collection of math tools)
-* [WolframAlpha](https://www.wolframalpha.com/) (web-based math knowledge base / solver)
+* [Desmos](https://www.desmos.com/) (web-based collection of Math tools)
+* [WolframAlpha](https://www.wolframalpha.com/) (web-based Math knowledge base / solver)
+* [Noclip](https://noclip.website/) (Inspection Tool for levels of commercial games)
 
 # Accessibility / UI
 * [Game UI Database](https://www.gameuidatabase.com/) (collection of UI examples for games)
-* [Interface Ingame](https://interfaceingame.com/)
-* [Colour Contrast](https://colourcontrast.cc/)
-* [Chroma](https://github.com/ubisoft/Chroma) (engine-agnostic Color Blindness simulation tool by Ubisoft)
+* [Interface Ingame](https://interfaceingame.com/) (collection of UI examples for games)
+* [Colour Contrast](https://colourcontrast.cc/) (contrast analyzer for text & background)
+* [Chroma](https://github.com/ubisoft/Chroma) (engine-agnostic color blindness simulation tool by Ubisoft)
 * [Leonardo](https://leonardocolor.io/#) (accessible color systems)
 
 ## Fonts
 * [Snowb](https://snowb.org/) (Bitmap Font Generator)
 * [Pixel Font](https://yal.cc/tools/pixel-font/) (Pixel Font Generator)
 
-# Art
+# Graphics
 ## 2D
-- [GIMP](https://www.gimp.org/) (Photoshop-like Image Editor)
-- [Krita](https://krita.org/) (Digital Painting Program)
-- [Inkscape](https://inkscape.org/) (SVG/Vector Graphics Tool)
-- [GodSVG](https://github.com/MewPurPur/GodSVG) (Web-Based SVG Editor)
-- [Paint.NET](http://www.getpaint.net/)
-- [Spacescape](http://alexcpeterson.com/spacescape/) (Skyboxes)
-- [PhotoPea](https://www.photopea.com/) (web-based PSD editor)
-- [Affinity Photo / Designer](https://affinity.serif.com/de/) ($${\color{red}paid}$$)
+* [GIMP](https://www.gimp.org/) (Photoshop-like Image Editor)
+* [Krita](https://krita.org/) (Digital Painting Program)
+* [Inkscape](https://inkscape.org/) (SVG/Vector Graphics Tool)
+* [PixieEditor](https://pixieditor.net/) (versatile FOSS 2D Graphic Editor)
+* [GodSVG](https://github.com/MewPurPur/GodSVG) (web-based SVG Editor)
+* [Spacescape](http://alexcpeterson.com/spacescape/) (Skyboxes)
+* [PhotoPea](https://www.photopea.com/) (web-based PSD editor)
+* [Paint.NET](http://www.getpaint.net/) (Image Editor, Windows only)
+* [Affinity Photo / Designer](https://affinity.serif.com/de/) ($${\color{red}paid}$$)
 
 ### Pixelart
 * [Aseprite](https://www.aseprite.org/) (pay once or compile yourself)
 * [LibreSprite](https://libresprite.github.io/) (FOSS Aseprite Fork)
-* [Piskel](https://www.piskelapp.com/)
-* [Pyxeledit](https://pyxeledit.com/)
-* [Pixelover](https://pixelover.io/)
-* [rx](https://rx.cloudhead.io/) (minimalistic pixel editor)
+* [Piskel](https://www.piskelapp.com/) (web-based Pixel Editor)
+* [PixelMash](https://nevercenter.com/pixelmash/) (Pixelart from Vector Graphics)
+* [rx](https://rx.cloudhead.io/) (minimalistic Pixel Editor)
 * [GrafX2](http://grafx2.chez.com/) (256-color Painting Program)
 * [Pixelorama](https://orama-interactive.itch.io/pixelorama) (Pixelart)
 * [Pixelate](https://www.scenario.com/features/pixelate) (Pixelart Converter)
+* [Pyxeledit](https://pyxeledit.com/) (Pixel Editor)
+* [Pixelover](https://pixelover.io/) (Pixelart Converter and Animator, $${\color{red}paid}$$)
 
 ### Tilesheets / Texture Packing
-* [EzSpriteSheet](https://github.com/z64me/EzSpriteSheet) (texture packer)
-* [Free Tex Packer](https://free-tex-packer.com/) (open source texture packer)
-* [Cheetah-Texture-Packer](https://github.com/scriptum/Cheetah-Texture-Packer) (texture packer)
+* [EzSpriteSheet](https://github.com/z64me/EzSpriteSheet) (Texture Packer)
+* [Free Tex Packer](https://free-tex-packer.com/) (open source Texture Packer)
+* [Cheetah-Texture-Packer](https://github.com/scriptum/Cheetah-Texture-Packer) (Texture Packer)
 * [Free Sprite Sheet Packer](https://www.codeandweb.com/free-sprite-sheet-packer) (free web-based alternative to Texture Packer)
-* [Texture Packer](http://www.codeandweb.com/texturepacker) (texture packer, partially free)
-* [tilesplit](https://github.com/morganholly/tilesplit) (tilesheet splitter)
+* [Texture Packer](http://www.codeandweb.com/texturepacker) (Texture Packer, partially free)
+* [tilesplit](https://github.com/morganholly/tilesplit) (Tilesheet Splitter)
  
 ## 3D
 * [Blender](http://www.blender.org) (Open Source 3D Creation Suite)
@@ -233,7 +241,7 @@ An ever-growing list of tools, assets and resources for game development. This c
 * [Armor Paint](https://armorpaint.org/) (3D PBR Texture Painting, $${\color{red}paid}$$)
 
 ### 2D Sprite to 3D
-* [Sprytile](https://chemikhazi.itch.io/sprytile) - (blender plugin, from 2D tilesets) 
+* [Sprytile](https://chemikhazi.itch.io/sprytile) (Blender plugin, from 2D tilesets) 
 * [Crocotile](http://crocotile3d.com) (commercial inspiration for Sprytile)
 * [Pyxel Edit 3D Viewer](https://chinafreak.itch.io/pyxel-edit-3d-viewer) (attempts to make 3D models from Pyxel)
 
@@ -244,8 +252,10 @@ An ever-growing list of tools, assets and resources for game development. This c
 * [OpenToonz](https://opentoonz.github.io/e/) (2D animation)
 * [Graphics Gale](https://graphicsgale.com/us/) (2D animation)
 * [Pencil2D](https://www.pencil2d.org/) (2D animation)
+* [Ajax Animator](https://antimatter15.com/ajaxanimator) (web-based 2D Animator)
 * [Pixel Composer](https://github.com/Ttanasart-pt/Pixel-Composer) (2D vfx/animation, needs GameMaker Studio IDE)
 * [LWF](https://gree.github.io/lwf/) (multi-format 2D animations)
+* [Mesh2Motion](https://mesh2motion.org/) (web-based 3D Animation Tool)
 * [FreeMoCap](https://freemocap.org/) (motion capture from video)
 * [Rokoko AI](https://www.rokoko.com/products/vision) (motion capture from video, $${\color{orange}limited}$$)
 
@@ -269,9 +279,10 @@ An ever-growing list of tools, assets and resources for game development. This c
 * [Tilesetter](https://www.tilesetter.org/) (successor to Tilemancer)
 * [Doodad Pattern Generator](https://doodad.dev/pattern-generator/) (web-based Pattern Generator)
 * [Doodad DitherMeThis](https://doodad.dev/dither-me-this/) (Dithering Tool)
+* [Dither Machine](https://lunarlabs.itch.io/dither-machine) (Dithering Tool)
 * [PoseMyArt](https://posemy.art/) (a tool for 3D Poses for art references)
 * [Live Normal](https://tenebrislab.github.io/livenormal/) (mobile photo-to-texture app)
-* [rexpaint](https://www.gridsagegames.com/rexpaint/) (ASCII art)
+* [rexpaint](https://www.gridsagegames.com/rexpaint/) (ASCII Art)
 * [Canyon Terrain Editor](https://entardev.wordpress.com/other-projects/canyon-terrain-editor/) (Terrain Generator)
 * [Fracplanet](https://sourceforge.net/projects/fracplanet/) (Terrain Generator)
 * [DEM.Net Elevation API](https://elevationapi.com/) (Terrain Generator)
@@ -283,51 +294,52 @@ An ever-growing list of tools, assets and resources for game development. This c
 * [MuseScore](https://musescore.org/de) (Notation Software)
 * [SynthFont](http://www.synthfont.com)(Midi Renderer)
 * [GXSCC](http://www.geocities.co.jp/SiliconValley-SanJose/8700/P/GsorigE.htm) (Midi Renderer)
-* [Abundant Music](http://abundant-music.com/) (Procedural Music, needs a Midi Renderer)
+* [Abundant Music](https://pernyblom.github.io/abundant-music/index.html) (web-based Procedural Music Generator, needs a Midi Renderer)
 * [Milkytracker](http://www.milkytracker.org/) (Tracker) 
 * [Soundation](https://soundation.com/) (web-based Music Collaboration Tool)
-* [Google AI Sound Maker](https://experiments.withgoogle.com/ai/sound-maker/view/) (Music / SFX with Machine Learning) 
-* [Punk Labs](https://punklabs.com/) (Audio Plugins)
 * [SoundOfText](https://soundoftext.com/) (Text-To-Speech)
-* [SoundImage](http://soundimage.org/)
+* [SoundThread](https://github.com/j-p-higgins/SoundThread) (node-based Renderer for "CDP" Audio Tools)
 * [Sonic Visualizer](https://www.sonicvisualiser.org/) (Audio Analysis Tool, e.g. with Pitch Detection via Vamp Plugins)
+* [Google AI Sound Maker](https://experiments.withgoogle.com/ai/sound-maker/view/) (Music / SFX with Machine Learning) 
 
 ### Recording
 * [Audacity](https://www.audacityteam.org/download/) (Audio Editing / Recording)
 
 ### Synthesizer
-* [Plugins4Free](https://plugins4free.com/) (an extensive list of free Plugins/VSTs)
+* [Plugins4Free](https://plugins4free.com/) (Audio Plugins/VSTs)
+* [VSTWarehouse](https://vstwarehouse.com/items/) (Audio Plugins/VSTs)
+* [Punk Labs](https://punklabs.com/) (Audio Plugins)
 * [Surge XT](https://surge-synthesizer.github.io/) (Synthesizer)
 * [Helm](https://tytel.org/helm/) (Synthesizer)
 * [VCV](https://vcvrack.com) (Modular Synth Rack, free option)
 
 ### Audio Programming
-* [csound](https://csound.com/) (most established? Audio Programming Language)
+* [csound](https://csound.com/) (Audio Programming Language)
 * [SuperCollider](https://supercollider.github.io/) (Audio Programming Language)
-* [PureData](https://puredata.info/) (patch-based visual audio programming)
-* [GDSiON](https://github.com/YuriSizov/gdsion) (GDExtension for synthesizers)
+* [PureData](https://puredata.info/) (patch-based visual Audio Programming)
+* [GDSiON](https://github.com/YuriSizov/gdsion) (GDExtension for Synthesizers)
 
 ### Middleware
 * [FMOD](www.fmod.com/) (free tier)
 * [WWISE](www.audiokinetic.com/products/wwise/) (free tier)
-* [Krilloud](www.krilloud.com) (node-based audio middleware)
+* [Krilloud](www.krilloud.com) (node-based Audio Middleware)
 
 ## Music
 ### DAWs
 * [LMMS](https://lmms.io/) (FOSS DAW)
 * [Ardour](https://ardour.org/) (DAW, FOSS / pay once or compile yourself)
-* [SunVox](https://warmplace.ru/soft/sunvox/) (Modular synthesizer and tracker system. Free for desktop)
+* [SunVox](https://warmplace.ru/soft/sunvox/) (Modular Synthesizer and Tracker System. Free for desktop)
 * [Cakewalk](https://www.bandlab.com/products/cakewalk) by Bandlab (Digital audio workstation - formerly SONAR)
 * [musagi](https://www.drpetter.se/project_musagi.html) 
 * [Reaper](https://www.reaper.fm/) (DAW, $${\color{red}paid}$$)
 * [Ableton Live](https://ableton.com) (DAW, $${\color{red}paid}$$)
 
 ### Sequencer
-* [Bosca Ceoil Blue](https://yurisizov.itch.io/boscaceoil-blue) (step sequencer, focused on 8bit music, made in Godot / GDSiON)
-* [helio.fm](https://helio.fm/) (sequencer with vst support)
-* [BeepBox](https://beepbox.co) (Web-based step sequencer for sketching and sharing melodies, chiptune)
-* [Otomata](http://www.earslap.com/page/otomata.html) (generative musical sequencer)
-* [Pixitracker](http://www.warmplace.ru/soft/pixitracker/) (chiptune sequencer)
+* [Bosca Ceoil Blue](https://yurisizov.itch.io/boscaceoil-blue) (Step Sequencer, focused on 8bit music, made in Godot / GDSiON)
+* [helio.fm](https://helio.fm/) (Sequencer with VST support)
+* [BeepBox](https://beepbox.co) (web-based Step Sequencer for sketching and sharing melodies, Chiptune)
+* [Otomata](https://marwahaha.github.io/otomata/) (web-based Procedural Music Generator)
+* [Pixitracker](http://www.warmplace.ru/soft/pixitracker/) (Chiptune Sequencer)
 
 ## SFX
 * [BFXR](http://bfxr.net/) (SFX Generator)
@@ -341,16 +353,16 @@ An ever-growing list of tools, assets and resources for game development. This c
 
 # Assets
 ### Various
-* [OpenGameArt](https://opengameart.org/) (various assets)
+* [OpenGameArt](https://opengameart.org/) (various Assets)
 * [Creative Commons Search](https://search.creativecommons.org/) (search for multiple different cc sources)
-* [Archive.org](https://archive.org) (various assets)
-* [Reiner's Tilesets](https://www.reinerstilesets.de/) (various assets)
-* [Assets on itch](https://itch.io/game-assets/free) (various assets)
-* [Kenney](https://www.kenney.nl/assets) (various assets)
+* [Archive.org](https://archive.org) (various Assets)
+* [Reiner's Tilesets](https://www.reinerstilesets.de/) (various Assets)
+* [Assets on itch](https://itch.io/game-assets/free) (various Assets)
+* [Kenney](https://www.kenney.nl/assets) (various Assets)
 * [Unity Asset Store](https://assetstore.unity.com/) (a lot of assets can be used without Unity)
-* [GameDocs](https://gamedocs.org/) (game design documents)
-* [Easy Releasy](https://jannikboysen.itch.io/easy-releasy) (templates for itch releases)
-* [Pitch Decks](https://plus.gamediscover.co/pitch-decks/) (various game pitches)
+* [GameDocs](https://gamedocs.org/) (Game Design Documents)
+* [Easy Releasy](https://jannikboysen.itch.io/easy-releasy) (Templates for Itch Releases)
+* [Pitch Decks](https://plus.gamediscover.co/pitch-decks/) (various Game Pitches)
 
 ### Translations
 * [Translation master list](https://docs.google.com/spreadsheets/d/197GYEhPpk0DQTEO0r80v_k_bkGVtUgBB08PP--hqCIA)
@@ -365,16 +377,16 @@ An ever-growing list of tools, assets and resources for game development. This c
 * [1001freefonts](http://www.1001freefonts.com)
 * [fontriver](http://www.fontriver.com)
 * [1001fonts](http://www.1001fonts.com)
-* [FontStruct](https://fontstruct.com) (font maker & library)
+* [FontStruct](https://fontstruct.com) (Font Maker & Library)
 
 ### Graphics
 #### 3D
 * [Sketchfab](https://sketchfab.com/models?date=week&features=downloadable&sort_by=-likeCount) (3D models / animations)
     * [CC0 Cultural Heritage Models](https://sketchfab.com/nebulousflynn/collections/cc0-9e9b8c5442ab4b59ba16b6fa5e43b8da)
 * [The Base Mesh](https://www.thebasemesh.com/) (3D Meshes, CC0)
-* [TurboSquid](http://turboSquid.com) (3D models)
-* [Blendswap](http://www.blendswap.com/) (3D models)
-* [Blender-Models](https://www.blender-models.com/) (3D models)
+* [TurboSquid](http://turboSquid.com) (3D Models)
+* [Blendswap](http://www.blendswap.com/) (3D Models)
+* [Blender-Models](https://www.blender-models.com/) (3D Models)
 * [Devassets](http://devassets.com) (HQ Assets)
 * [Carnegie-Mellon Motion Capture Database](http://mocap.cs.cmu.edu/) (Animations)
 * [mixamo](https://www.mixamo.com/) (Animations)
@@ -383,12 +395,13 @@ An ever-growing list of tools, assets and resources for game development. This c
 * [poly.pizza](https://poly.pizza/) (Low Poly Models)
 * [Kay Lousberg Packs](https://kaylousberg.itch.io/) (Low Poly Models)
 * [RGS Dev Packs](https://rgsdev.itch.io/) (Low Poly Models & Pixel Art)
+* [SoundImage](http://soundimage.org/) (Sounds, Music, Images)
 * [Synty Assets](https://syntystore.com/collections/polygon) (popular Low Poly 3D Models, $${\color{red}paid}$$)
 
 #### 2D
 * [Liberated Pixel Cup](https://lpc.opengameart.org/) (Pixel Art)
 * [Craftpix Freebies](https://craftpix.net/freebies/) (various 2D Assets)
-* [SpriteLib](https://www.widgetworx.com/projects/sl.html) (sprite library)
+* [SpriteLib](https://www.widgetworx.com/projects/sl.html) (Sprite Library)
 
 #### Icons / UI
 * [Icon SVG](https://iconsvg.xyz)
@@ -406,11 +419,11 @@ An ever-growing list of tools, assets and resources for game development. This c
 * [CGTextures.com](http://www.cgtextures.com/)
 * [ambientCG](https://ambientcg.com/) (CC0 Textures)
 * [Openfootage](https://www.openfootage.net/texture-packs/)
-* [3dtextures.me](https://3dtextures.me/) (textures with PBR maps)
-* [Poly Haven](https://polyhaven.com/) (HDRI textures & 3D assets)
-* [CGBookCase](https://www.cgbookcase.com/textures/) (textures)
+* [3dtextures.me](https://3dtextures.me/) (Textures with PBR Maps)
+* [Poly Haven](https://polyhaven.com/) (HDRI Textures & 3D Assets)
+* [CGBookCase](https://www.cgbookcase.com/textures/) (Textures)
 * [Matcaps](https://github.com/nidorx/matcaps#matcaps)
-* [Blockout Textures](https://github.com/astrochili/blockout-textures) (textures for level prototyping)
+* [Blockout Textures](https://github.com/astrochili/blockout-textures) (Textures for Level Prototyping)
 * [Light Probe Image Gallery](https://www.pauldebevec.com/Probes/)
 * [TextureKing](https://www.textureking.com/) (stock textures)
 * [ZBrush Alpha](https://pixologic.com/zbrush/downloadcenter/alpha/) (alpha materials)
@@ -443,7 +456,7 @@ An ever-growing list of tools, assets and resources for game development. This c
 * [NASA Audio Library](https://archive.org/details/nasaaudiocollection)
 * [New York Public Library](http://digitalcollections.nypl.org/)
 * [ZapSplat](https://www.zapsplat.com/)
-* [Signature Sounds](https://signaturesounds.org/) (contains some 
+* [Signature Sounds](https://signaturesounds.org/) (contains some free packs)
 
 # Guides
  $${\color{orange}Note}$$: This section or parts of it will probably be extracted as a separate list later on.
