@@ -83,6 +83,7 @@ An ever-growing list of tools, assets and resources for game development. This c
 * [Obsidian](https://obsidian.md/) (extensible MD-based note/writing tool)
 * [Notion](https://www.notion.com/) (collaborative note/writing tool)
 * [PadCrafter](https://www.padcrafter.com/index.php) (control scheme builder)
+* [IMS Creators Desktop](https://ims.cr5.space/en/desktop) (open-source gamedesign tool for writing and planning content)
 
 ## Prototyping
 * [Miro](https://miro.com/) (web-based collaborative Whiteboard)
