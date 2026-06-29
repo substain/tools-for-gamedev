@@ -226,6 +226,7 @@ An ever-growing list of tools, assets and resources for game development. This c
 * [Blender](http://www.blender.org) (FOSS 3D creation Suite)
   - [gret](https://github.com/greisane/gret) (a set of Blender tools as addon)
   - [jbake-tools](https://github.com/jayanam/jbake-tools) (Blender low-poly baking addon)
+  - [BagaPie](https://extensions.blender.org/add-ons/bagapie) (50+ Blender tools for architecture and environment)
 * [Wings 3D](https://www.wings3d.com) (FOSS Subdivision Modelling Tool)
 * [MakeHuman](http://www.makehumancommunity.org/)
 * [Vectary](https://www.vectary.com/) (web-based 3D modeling)
