@@ -154,6 +154,7 @@ An ever-growing list of tools, assets and resources for game development. This c
 * [7zip](https://www.7-zip.org/) (File Archives)
 * [Nanazip](https://github.com/M2Team/NanaZip) (File Archives, 7zip fork)
 * [Pureref](https://www.pureref.com/index.php) (Image References)
+* [ArtDeck](https://getartdeck.com/) (visual reference boards and study tools for iPhone, iPad and Mac, $${\color{red}paid}$$)
 * [Games-Stats](https://games-stats.com/) (Video Game Statistics)
 * [Github Gists](http://gist.github.com/) (collection of useful scripts)
 * [Regexr](https://regexr.com/) (Regex)
