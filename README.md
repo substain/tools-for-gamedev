@@ -66,6 +66,7 @@ An ever-growing list of tools, assets and resources for game development. This c
 # Organization & Koordination
 ## Tasks / Kanban
 * [Github Issues / Projects](https://github.com/features/issues) (Project Management integrated in Github)
+* [Pixl Quest](https://pixlquest.com/) (Project Management built for game devs)
 * [Trello](https://trello.com/) (Project Management)
 * [HackNPlan](https://hacknplan.com/)
 * [Codecks](https://www.codecks.io/) - (GameDev focused Project + Community Management)
@@ -86,6 +87,7 @@ An ever-growing list of tools, assets and resources for game development. This c
 
 ## Prototyping
 * [Miro](https://miro.com/) (web-based collaborative Whiteboard)
+* [Pixl Quest](https://pixlquest.com/tools) (web-based Dungeon and World Map generators)
 * [Milanote](https://milanote.com/) (web-based collaborative Whiteboard)
 * [Figma](http://figma.com) (web-based Vector Graphics Editor)
   - [FigJam](https://www.figma.com/figjam/) (web-based collaborative Whiteboard)
