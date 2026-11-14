@@ -60,6 +60,7 @@ An ever-growing list of tools, assets and resources for game development. This c
       - [Texturing](#texturing)
       - [Rigging](#rigging)
   * [Various](#various-2)
+ - [Contributions](#contributions)
 
 ---
 
@@ -526,3 +527,8 @@ An ever-growing list of tools, assets and resources for game development. This c
 
 ## Various
 * [Gamedevs.org](https://www.gamedevs.org/) (various talks about game development)
+
+# Contributions
+This collections aims to be a helpful resource for game developers.
+With the surge of new tools created with GenAI, maintaining this list may become too time-consuming if every tool would be included here. Furthermore, distinguishing actually helpful tools from the rest would become more difficult and make the list less useful.
+This is why no further contributions containing self-promotion will be accepted in general. You can still create pull requests, but unless a good reason is provided, the PR will be closed. Additionally, since a human will review the PRs, make sure the PR is written by a human as well.
