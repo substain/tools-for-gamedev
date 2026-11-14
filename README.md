@@ -278,6 +278,7 @@ An ever-growing list of tools, assets and resources for game development. This c
 
 ## VFX / Shader
 * [VFExtra](https://www.nielsdewitte.be/VFExtra/) (VFX Plugin for UE, textures)
+* [PixelFx Studio](https://pixelfx.io/) (free animated pixel effects with recoloring, PNG sprite sheets and animation JSON, based on Patch's MIT-licensed pixelfx library)
 * [ShaderToy](https://www.shadertoy.com/) (web-based shader editor & collection)
 * [Godot Shaders](https://godotshaders.com/) (collection of shaders for Godot)
 
