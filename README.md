@@ -213,6 +213,7 @@ An ever-growing list of tools, assets and resources for game development. This c
 * [Tilf](https://github.com/danterolle/tilf) (Pixel Editor)
 * [Pyxeledit](https://pyxeledit.com/) (Pixel Editor)
 * [Pixelover](https://pixelover.io/) (Pixelart Converter and Animator, $${\color{red}paid}$$)
+* [PixelArtHive Pixel Art Upscaler](https://pixelarthive.com/pixel-art-upscaler) (free web tool for enlarging sprites with sharp pixel edges)
 
 ### Tilesheets / Texture Packing
 * [EzSpriteSheet](https://github.com/z64me/EzSpriteSheet) (Texture Packer)
