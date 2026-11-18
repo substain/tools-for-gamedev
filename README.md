@@ -222,6 +222,7 @@ An ever-growing list of tools, assets and resources for game development. This c
 * [Free Sprite Sheet Packer](https://www.codeandweb.com/free-sprite-sheet-packer) (free web-based alternative to Texture Packer)
 * [Texture Packer](http://www.codeandweb.com/texturepacker) (Texture Packer, partially free)
 * [tilesplit](https://github.com/morganholly/tilesplit) (Tilesheet Splitter)
+* [MakerGIF Sprite Sheet Converter](https://makergif.com/gif-to-sprite-sheet) (free web-based GIF/video to Sprite Sheet packer & WASD tester)
  
 ## 3D
 * [Blender](http://www.blender.org) (FOSS 3D creation Suite)
